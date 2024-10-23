@@ -49,3 +49,11 @@ Métodos: Realizar Empréstimo, Devolver Livro
 Observação Importante:
 É fundamental lembrar que essas definições de entidades, atributos e métodos vêm de um processo anterior chamado levantamento de requisitos, onde são identificadas as necessidades do sistema.
 Por exemplo, para decidir que precisamos de uma entidade "Livro" com os atributos "Nome" e "Gênero", essas necessidades foram discutidas e aprovadas na fase de requisitos, como: "Precisamos que o banco de dados armazene informações sobre livros, seus títulos, autores, etc."
+
+
+# Programa para desenvolvor os conceitos de modelagem(BRmodelo):
+
+Apliquei conceitos de entidades, relação e cardinalidade.
+
+![Brmodelo](https://github.com/user-attachments/assets/d7291ee2-0823-4957-a9a4-52ea3bf47a7f)
+
