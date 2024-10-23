@@ -55,6 +55,8 @@ Por exemplo, para decidir que precisamos de uma entidade "Livro" com os atributo
 
 Apliquei conceitos de entidades, relação e cardinalidade.
 
+Obs: na etapa de modelagem conceitual, devemos semprer colocar a cardinalidade máxima como "n", pois é na modelagem lógica que definimos a cardinalidade máxima.
+
 
 ![Brmodelo](https://github.com/user-attachments/assets/8ff1b7d4-d8a4-4eac-8e32-a59aebec1225)
 
