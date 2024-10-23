@@ -55,6 +55,7 @@ Por exemplo, para decidir que precisamos de uma entidade "Livro" com os atributo
 
 Apliquei conceitos de entidades, relação e cardinalidade.
 
-![Brmodelo](https://github.com/user-attachments/assets/a2f575b3-9885-4690-a260-b493012c5d4c)
+
+![Brmodelo](https://github.com/user-attachments/assets/8ff1b7d4-d8a4-4eac-8e32-a59aebec1225)
 
 
